@@ -6,7 +6,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="indice.PNG" alt="Exemplo imagem" width="50px">
+<img src="indice.PNG" alt="Exemplo imagem" width="100">
 <img src="narrativa.PNG" alt="Exemplo imagem">
 <img src="influenciadores.PNG" alt="Exemplo imagem">
 <img src="faixas.PNG" alt="Exemplo imagem">
