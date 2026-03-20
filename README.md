@@ -29,3 +29,12 @@
 > - Navegação intuitiva através de um Índice.
 > - Narrativa Inteligente que descreve as análises conforme mudanças ocorrem.
 > - Principais influenciadores para responder perguntas e gerando insights com base em segmentos e categorias.
+
+### :thought_balloon: Contato
+
+<p>
+    <a href="#" title="Gmail">
+        <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=nicolasfelipecarvalho927@gmail.com" alt="Gmail"/></a>      <a href="#" title="LinkedIn">
+        <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-f-carvalho/" alt="LinkedIn"/>
+    </a>
+</p>
