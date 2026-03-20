@@ -23,14 +23,8 @@
 #### 1. Processamento de Dados (ETL)
 > - Limpeza e tratamento de dados brutos utilizando o Power Query.
 > - Padronização de tipos de dados e remoção de duplicatas/nulos.
-> - Criação de colunas condicionais e personalizadas.
 
-#### 2. Modelagem de Dados
-> - Implementação do esquema Star Schema (Tabelas Fato e Dimensões).
-> - Criação de uma tabela dCalendario robusta para análises temporais.
-> - Relacionamentos um-para-muitos (1:*) com integridade referencial.
-
-#### 3. Inteligência Analítica (DAX)
+#### 2. Inteligência Analítica (DAX)
 > - Uso de funções avançadas como CALCULATE, FILTER e ALL.
 > - Cálculos de Time Intelligence: Comparativos Ano a Ano (YoY) e Acumulados (YTD).
 > - Métricas dinâmicas para KPIs de performance.
