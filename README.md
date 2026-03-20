@@ -21,8 +21,7 @@
 > - Padronização de tipos de dados e remoção de duplicatas/nulos.
 
 #### 2. Inteligência Analítica (DAX)
-> - Uso de funções avançadas como CALCULATE, FILTER e ALL.
-> - Cálculos de Time Intelligence: Comparativos Ano a Ano (YoY) e Acumulados (YTD).
+> - Correção de tipo de dados das colunas.
 > - Métricas dinâmicas para KPIs de performance.
 
 #### 4. User Experience (UX) e Design
