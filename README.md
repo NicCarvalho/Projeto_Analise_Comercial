@@ -21,11 +21,9 @@
 ### Principais Características Técnicas
 
 #### 1. Processamento de Dados (ETL)
-Limpeza e tratamento de dados brutos utilizando o Power Query.
-
-Padronização de tipos de dados e remoção de duplicatas/nulos.
-
-Criação de colunas condicionais e personalizadas.
+>Limpeza e tratamento de dados brutos utilizando o Power Query.
+>Padronização de tipos de dados e remoção de duplicatas/nulos.
+>Criação de colunas condicionais e personalizadas.
 
 2. Modelagem de Dados
 Implementação do esquema Star Schema (Tabelas Fato e Dimensões).
