@@ -32,9 +32,12 @@
 
 ## :thought_balloon: Contatos
 
-<p>
-    <a href="#" title="Gmail">
-        <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=[mailto:nicolasfelipecarvalho927@gmail.com]" alt="Gmail"/></a>      <a href="#" title="LinkedIn">
-        <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/nicolas-f-carvalho/]" alt="LinkedIn"/>
+<a href="#" title="Gmail">
+        <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail"/>
+        <p>nicolasfelipecarvalho927@gmail.com</p>
+        </a>
+    <a href="#" title="LinkedIn">
+        <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"/>
+        <p>https://www.linkedin.com/in/nicolas-f-carvalho/</p>
     </a>
 </p>
