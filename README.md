@@ -12,8 +12,38 @@
 
 > Projeto de análise de dados comerciais sobre Performance de Vendas de uma determinada empresa, sendo o foco deste projeto a Limpeza e Modelagem de dados, Inteligência Analítica, UX e UI
 
-### Tecnologias e Ferramentas
+### :white_check_mark: Tecnologias e Ferramentas
 
 - [x] Power BI
 - [x] Power Query / M language
-- DAX
+- [x] DAX
+
+### Principais Características Técnicas
+
+1. Processamento de Dados (ETL)
+Limpeza e tratamento de dados brutos utilizando o Power Query.
+
+Padronização de tipos de dados e remoção de duplicatas/nulos.
+
+Criação de colunas condicionais e personalizadas.
+
+2. Modelagem de Dados
+Implementação do esquema Star Schema (Tabelas Fato e Dimensões).
+
+Criação de uma tabela dCalendario robusta para análises temporais.
+
+Relacionamentos um-para-muitos (1:*) com integridade referencial.
+
+3. Inteligência Analítica (DAX)
+Uso de funções avançadas como CALCULATE, FILTER e ALL.
+
+Cálculos de Time Intelligence: Comparativos Ano a Ano (YoY) e Acumulados (YTD).
+
+Métricas dinâmicas para KPIs de performance.
+
+4. User Experience (UX) e Design
+Navegação intuitiva através de Botões e Bookmarks (Indicadores).
+
+Tooltips Personalizadas para detalhamento de dados ao passar o mouse.
+
+Filtros (Slicers) sincronizados entre diferentes páginas do relatório.
