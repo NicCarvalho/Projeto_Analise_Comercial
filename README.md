@@ -20,30 +20,30 @@
 
 ### Principais Características Técnicas
 
-1. Processamento de Dados (ETL)
-  >>Limpeza e tratamento de dados brutos utilizando o Power Query.
+#### 1. Processamento de Dados (ETL)
+Limpeza e tratamento de dados brutos utilizando o Power Query.
 
-  >>Padronização de tipos de dados e remoção de duplicatas/nulos.
+Padronização de tipos de dados e remoção de duplicatas/nulos.
 
-  >>Criação de colunas condicionais e personalizadas.
+Criação de colunas condicionais e personalizadas.
 
 2. Modelagem de Dados
-  >>Implementação do esquema Star Schema (Tabelas Fato e Dimensões).
+Implementação do esquema Star Schema (Tabelas Fato e Dimensões).
 
-  >>Criação de uma tabela dCalendario robusta para análises temporais.
+Criação de uma tabela dCalendario robusta para análises temporais.
 
-  >>Relacionamentos um-para-muitos (1:*) com integridade referencial.
+Relacionamentos um-para-muitos (1:*) com integridade referencial.
 
 3. Inteligência Analítica (DAX)
-  >>Uso de funções avançadas como CALCULATE, FILTER e ALL.
+Uso de funções avançadas como CALCULATE, FILTER e ALL.
 
-  >>Cálculos de Time Intelligence: Comparativos Ano a Ano (YoY) e Acumulados (YTD).
+Cálculos de Time Intelligence: Comparativos Ano a Ano (YoY) e Acumulados (YTD).
 
-  >>Métricas dinâmicas para KPIs de performance.
+Métricas dinâmicas para KPIs de performance.
 
 4. User Experience (UX) e Design
-  >>Navegação intuitiva através de Botões e Bookmarks (Indicadores).
+Navegação intuitiva através de Botões e Bookmarks (Indicadores).
 
-  >>Tooltips Personalizadas para detalhamento de dados ao passar o mouse.
+Tooltips Personalizadas para detalhamento de dados ao passar o mouse.
 
-  >>Filtros (Slicers) sincronizados entre diferentes páginas do relatório.
+Filtros (Slicers) sincronizados entre diferentes páginas do relatório.
