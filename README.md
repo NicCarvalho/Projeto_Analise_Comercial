@@ -30,7 +30,7 @@
 > - Narrativa Inteligente que descreve as análises conforme mudanças ocorrem.
 > - Principais influenciadores para responder perguntas e gerando insights com base em segmentos e categorias.
 
-### :thought_balloon: Contato
+## :thought_balloon: Contatos
 
 <p>
     <a href="#" title="Gmail">
