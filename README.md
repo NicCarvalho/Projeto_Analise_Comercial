@@ -28,4 +28,4 @@
 #### 4. User Experience (UX) e Design
 > - Navegação intuitiva através de um Índice.
 > - Narrativa Inteligente que descreve as análises conforme mudanças ocorrem.
-> - Filtros (Slicers) sincronizados entre diferentes páginas do relatório.
+> - Principais influenciadores para responder perguntas e gerando insights com base em segmentos e categorias.
