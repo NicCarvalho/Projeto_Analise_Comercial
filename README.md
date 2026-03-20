@@ -24,7 +24,7 @@
 > - Correção de tipo de dados das colunas.
 > - Métricas dinâmicas para KPIs de performance.
 
-#### 4. User Experience (UX) e Design
+#### 3. User Experience (UX) e Design
 > - Navegação intuitiva através de um Índice.
 > - Narrativa Inteligente que descreve as análises conforme mudanças ocorrem.
 > - Principais influenciadores para responder perguntas e gerando insights com base em segmentos e categorias.
