@@ -1,4 +1,4 @@
-# :money_with_wings: Projeto Analise Comercial
+# :money_with_wings:Projeto Analise Comercial
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
@@ -10,14 +10,10 @@
 <img src="influenciadores.PNG" alt="Exemplo imagem" width="400"> | <img src="faixas.PNG" alt="Exemplo imagem" width="400">
 <img src="performance.PNG" alt="Exemplo imagem" width="400">
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+> Projeto de análise de dados comerciais sobre Performance de Vendas de uma determinada empresa, sendo o foco deste projeto a Limpeza e Modelagem de dados, Inteligência Analítica, UX e UI
 
-### Ajustes e melhorias
+### Tecnologias e Ferramentas
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
-
-- [x] Tarefa 1
-- [x] Tarefa 2
-- [x] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
+- [x] Power BI
+- [x] Power Query / M language
+- DAX
