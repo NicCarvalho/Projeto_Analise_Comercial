@@ -26,12 +26,10 @@
 > - Criação de colunas condicionais e personalizadas.
 
 
-2. Modelagem de Dados
-Implementação do esquema Star Schema (Tabelas Fato e Dimensões).
-
-Criação de uma tabela dCalendario robusta para análises temporais.
-
-Relacionamentos um-para-muitos (1:*) com integridade referencial.
+#### 2. Modelagem de Dados
+> - Implementação do esquema Star Schema (Tabelas Fato e Dimensões).
+< - Criação de uma tabela dCalendario robusta para análises temporais.
+> - Relacionamentos um-para-muitos (1:*) com integridade referencial.
 
 3. Inteligência Analítica (DAX)
 Uso de funções avançadas como CALCULATE, FILTER e ALL.
