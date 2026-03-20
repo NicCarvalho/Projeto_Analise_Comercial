@@ -7,8 +7,7 @@
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
 <img src="indice.PNG" alt="Exemplo imagem" width="400"> | <img src="narrativa.PNG" alt="Exemplo imagem" width="400">
-<img src="influenciadores.PNG" alt="Exemplo imagem" width="400"> | <img src="faixas.PNG" alt="Exemplo imagem" width="400">
-<img src="performance.PNG" alt="Exemplo imagem" width="400">
+<img src="influenciadores.PNG" alt="Exemplo imagem" width="400"> | <img src="faixas.PNG" alt="Exemplo imagem" width="400"> | <img src="performance.PNG" alt="Exemplo imagem" width="400">
 
 > Projeto de análise de dados comerciais sobre Performance de Vendas de uma determinada empresa, sendo o foco deste projeto a Limpeza e Modelagem de dados, Inteligência Analítica, UX e UI
 
