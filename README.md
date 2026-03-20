@@ -3,8 +3,8 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
 
-<img src="indice.PNG" alt="Exemplo imagem" width="400"> <img src="narrativa.PNG" alt="Exemplo imagem" width="400">
-<img src="influenciadores.PNG" alt="Exemplo imagem" width="265"> <img src="faixas.PNG" alt="Exemplo imagem" width="265"> <img src="performance.PNG" alt="Exemplo imagem" width="265">
+<img src="indice.PNG" alt="Indice" width="400"> <img src="narrativa.PNG" alt="Narrativa" width="400">
+<img src="influenciadores.PNG" alt="Influenciadores" width="265"> <img src="faixas.PNG" alt="Faixas" width="265"> <img src="performance.PNG" alt="Performance" width="265">
 
 > Projeto de análise de dados comerciais sobre Performance de Vendas de uma determinada empresa, sendo o foco deste projeto a Limpeza e Modelagem de dados, Inteligência Analítica, UX e UI
 
